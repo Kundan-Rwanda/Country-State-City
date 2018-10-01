@@ -11,4 +11,6 @@ Dynamic Load of Country, State and their City From MySQL using PHP in Android
          ii) PHP Project - This Contains all php project (CountryStateCity) files 
          (db_config.php,db_connection.php,getCountry.php,getState.php, and getCity.php)
     
-N.B:- First Read Pupulate dynamic data on Android spinner from MySQL using PHP.pdf file which is available under ReadMe folder
+N.B:- 
+1) Screen shot- Locate sreen shot.png umage file and open it to have a look of Android Project output
+2)First Read Pupulate dynamic data on Android spinner from MySQL using PHP.pdf file which is available under ReadMe folder
