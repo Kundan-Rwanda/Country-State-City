@@ -16,4 +16,5 @@ Dynamic Load of Country, State and their City From MySQL using PHP in Android
     
 N.B:- 
 1) Screen shot- Locate sreen shot.png umage file and open it to have a look of Android Project output
+
 2)First Read Pupulate dynamic data on Android spinner from MySQL using PHP.pdf file which is available under ReadMe folder
