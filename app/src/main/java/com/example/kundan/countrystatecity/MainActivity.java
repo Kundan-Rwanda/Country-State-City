@@ -29,6 +29,8 @@ import static com.example.kundan.countrystatecity.Common.stateArray;
 /**
  * Created by kundan on 28/09/2018.
  * email: kundan.kumar011@gmail.com
+ * This activity is created to answer this question<br>
+ * {http://stackoverflow.com/questions/36603522/country-state-and-city-spinner-not-working-correctly}
  */
 
 public class MainActivity extends AppCompatActivity {
